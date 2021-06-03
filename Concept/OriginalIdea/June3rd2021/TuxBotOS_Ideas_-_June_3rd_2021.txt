@@ -1,0 +1,106 @@
+TuxBotOS Ideas - June 3rd 2021
+
+Open source hardware (find and use the FSF/RMS preferred term)
+
+Various models
+
+Classic tux
+Glossy tux
+Minimal tux
+Whatever the bulb-like tux is called
+Pax tux
+
+All models have the same specs, but depending on the size, can be overclocked and upgraded differently
+
+Default specs:
+
+2-16 GB of RAM
+256 to 4096 Gigabytes of space (HDD or SSD)
+2 cameras in the eyes, with non-disruptive (doesn't change the appearance too much) slide covers
+CD/DVD/Blu-ray readers located in the bottom of the back of the torso (optional)
+Microphone
+Bluetooth support
+Wi-Fi support (alternatively: Pri-Fiy support)
+4 USB 3.0 ports
+2 USB C ports
+2 USB B ports
+4 USB 4.0 ports
+2 USB 2.0 ports
+7 hardware kill switches
+2-8 core AMD processor
+5000-50000 mAh battery
+Teletubby monitor screen (480p to 4K)
+
+Tools
+
+Linux install
+Distro pool
+Provide your own distros in the distro pool file system
+
+Debian/Debian/9/
+Debian/Ubuntu/2004/
+Redhat/Fedora/34/
+Etc.
+
+Linux facts.txt
+
+"Linux is currently in use on all 500 of the top 500 Supercomputers"
+"The International Space Station (or ISS) switched to Linux in 2011"
+"The Linux kernel was created by Linus Torvalds on <date> 1991"
+And many more, specifically more for non-tech savvy and non-statistical facts
+
+Movement mode
+
+Low power mode
+
+Wheels or tank tracks - unrealistic, but able to move around with much less power
+
+Medium power mode
+
+Waddles around
+Adjust the waddling speed
+
+High power mode
+
+Waddles around
+Additionally, Tux can now waddle around while protecting an egg
+
+Accessories
+
+Tux penguin egg
+Linux for workgroups 3.11 flag
+Linux defender shield
+Guy Fawkes/Vendetta mask for Tux
+Tux sunglasses
+
+Model support
+
+Arduino
+Raspberry Pi
+
+Language support
+
+Default
+
+C++
+C
+Assembly
+Python
+Scratch
+
+Additional
+
+Genie
+Boo
+Vala
+Ruby
+Kotlin
+Java
+Fortran
+Objective-C
+C#
+F#
+Q#
+IronPython
+JavaScript
+VHDL
