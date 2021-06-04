@@ -1,0 +1,49 @@
+Linux facts
+
+Version 1 - June 3rd 2021 at 7:38 pm
+
+~~~~
+
+General
+
+"The Linux kernel was created by Linus Torvalds on September 17th 1991"
+"Linux is not an operating system, Linux is the kernel that runs the operating system"
+
+Statistics and popularity
+
+"Linux is currently in use on all 500 of the top 500 Supercomputers" - 2021
+"The International Space Station (or ISS) switched to Linux in 2013 for security and control reasons. As of 2021, the ISS is still using Linux"
+"The government of both North and South Korea uses Linux or a UNIX-like system"
+"90% of all cloud infrastructure is powered by Linux including supercomputers and cloud providers." - 2021
+"74% of smartphones in the world are Linux-based." - 2021
+"The exact measure of Linux usage can't be determined, as Linux is not designed to tell by default who is using it"
+
+Developers
+
+> Linus Torvalds
+
+"Linus Torvalds has a history of..."
+
+> Notable developer #2
+
+> Notable developer #3
+
+Development
+
+"As of September 17th 2021, Linux has been a thing for 30 years"
+"Linux was not functional on its own until V0.02, which was released on October 5th 1991"
+"Linux is mostly written in the C programming language"
+"Linux development is done at the Linux kernel mailing lists, although a read-only clone is available on sites like GitHub"
+"In May 2021, Linux reached 1 million commits"
+
+Security
+
+<empty>
+
+Open-source
+
+<empty>
+
+~~~~
+
+And many more, specifically more for non-tech savvy and non-statistical facts. Please also help make this more interesting
