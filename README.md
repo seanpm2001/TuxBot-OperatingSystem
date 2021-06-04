@@ -1,17 +1,19 @@
 
 ***
 
-# <projectName>
+# TuxBot_OperatingSystem
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![TuxTransparent.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](TuxTransparent.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+[Seanpm2001](https://github.com/seanpm2001/) [et; al](https://github.com/)
 
 ### Top
 
 # `README.md`
+
+Part of a new series of robotics projects by Seanpm2001
 
 ***
 
@@ -27,13 +29,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#TuxBot_OperatingSystem)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#TuxBot-OperatingSystem)
 
 [02.0 - About](#About)
 
@@ -71,20 +73,23 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# TuxBot-OperatingSystem
+The open source Tux (Linux Mascot) robot blueprints and waddling Linux helper. Celebrating 30 years of Linux (1991-2021) 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This project is part of a new series of projects by me that delves into robotics, and open hardware design (commonly known as open source hardware) both the hardware and software is open source.
+
+This project is also in celebration of the 30th anniversary of Linux (1991-2021)
+
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/TuxBot-OperatingSystem/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +135,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 69 commits (As of Thursday June 3rd 2021 at 9:52 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +205,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A](PROJECT_LANG_1.c)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/TuxBot-OperatingSystem/discussions)
 
 No other resources at the moment.
 
@@ -220,15 +225,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+File version: `1 (Thursday, June 3rd 2021 at 9:52 pm)`
 
-Line count: `0,296`
+Line count: `0,293`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Version 1 (Thursday, June 3rd 2021 at 9:52 pm)
 
 > Changes:
 
@@ -265,14 +270,6 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
